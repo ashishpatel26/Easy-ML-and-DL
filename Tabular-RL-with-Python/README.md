@@ -4,15 +4,15 @@ Using only NumPy & basic Python data structures (list, tuple, set, and dictionar
 
 ### Algorithms learning from *4X4 Grid World Environment (From Sutton & Barto 2017, pp. 61)*
 
-![Alt text](/imgs/sutton_barto_example.PNG) <br>
+![Alt text](https://github.com/ashishpatel26/Easy-ML-and-DL/blob/master/Tabular-RL-with-Python/imgs/sutton_barto_example.PNG) <br>
 
 ### Tabular Reinforcement Learning Algorithms with *NumPy*
 
-![Alt text](/imgs/1.PNG) <br>
+![Alt text](https://github.com/ashishpatel26/Easy-ML-and-DL/blob/master/Tabular-RL-with-Python/imgs/1.PNG) <br>
 
 ### Visualizations with *Seaborn* (Policy & Value function)
 
-![Alt text](/imgs/2.PNG)
+![Alt text](https://github.com/ashishpatel26/Easy-ML-and-DL/blob/master/Tabular-RL-with-Python/imgs/2.PNG)
 
 
 ## Contents
